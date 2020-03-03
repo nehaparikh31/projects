@@ -1,1 +1,9 @@
 #README
+Hadoop Version: 2.8.4
+Java Version: 1.8.0_222
+
+For Version1: 
+	Jar file: count1
+	PackageName.mainfile: cps534.count1.CountApplication
+
+For extracting and importing jar file to AWS use Putty.
