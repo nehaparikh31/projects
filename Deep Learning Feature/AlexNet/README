@@ -1,1 +1,8 @@
 #README
+
+1) Extracting the Local Binary Pattern(LBP) feature and fc7 layer of AlexNet separately for each training and testing image for which pre-trained CNN imagenet-caffe-alex.mat is used,
+
+2) Fliping all training images
+
+3) Concatenating LBP and Deep Learned Features for each training and testing image (256 + 4096 = 4352-dimension). Performing the K-nearest
+neighbor with different Ks (K ε {1, 3, 5, 7, 9}).
