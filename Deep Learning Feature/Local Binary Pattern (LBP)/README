@@ -1,5 +1,5 @@
 #README
 Here classification is done for images of two classes: Dog and Cat.
-Implentation:
+Implementation:
 1. Extracting the Local Binary Pattern (LBP)features for each training and testing image.
 2. Running 2 classifiers: K-nearest neighbor (KNN) and Neural Networks (NN) on the testing images.
